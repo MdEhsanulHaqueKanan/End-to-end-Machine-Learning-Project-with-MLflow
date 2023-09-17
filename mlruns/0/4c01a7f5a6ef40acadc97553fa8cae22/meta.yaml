@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Machine_Learning_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/4c01a7f5a6ef40acadc97553fa8cae22/artifacts
+end_time: 1694919488747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c01a7f5a6ef40acadc97553fa8cae22
+run_name: exultant-hawk-496
+run_uuid: 4c01a7f5a6ef40acadc97553fa8cae22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694919482118
+status: 3
+tags: []
+user_id: '2021'

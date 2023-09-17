@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Machine_Learning_Projects/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/311476850bcf442a8f2219aa3291e2df/artifacts
+end_time: 1694920008615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311476850bcf442a8f2219aa3291e2df
+run_name: nosy-penguin-516
+run_uuid: 311476850bcf442a8f2219aa3291e2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694920001854
+status: 3
+tags: []
+user_id: '2021'
